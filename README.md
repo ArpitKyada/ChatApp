@@ -13,3 +13,6 @@ Real-time chat app based on Android using Cryptography, Firebase Cloud, Encrypti
 - Image Compression
 - Check Availability Status (Online / Offline)
 - Encryption & Decryption
+
+
+!(Recent.jpg)
