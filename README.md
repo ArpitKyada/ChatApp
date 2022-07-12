@@ -10,6 +10,7 @@ Real-time chat app based on Android using Cryptography, Firebase Cloud, Encrypti
 - Realtime Chatting
 - Notification
 - Send Image & Text
+- Firebase Cloud Messaging
 - Image Compression
 - Check Availability Status (Online / Offline)
 - Encryption & Decryption
