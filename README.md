@@ -18,16 +18,16 @@ Real-time chat app based on Android using Cryptography, Firebase Cloud, Encrypti
 ## Screenshot
 
 - LogIn
-<img src="LogIn.jpg" width="450">
+<img src="LogIn.jpg" width="400">
 
 - SignUp
-<img src="SignUp.jpg" width="450">
+<img src="SignUp.jpg" width="400">
 
 - Recent
-<img src="Recent.jpg" width="450">
+<img src="Recent.jpg" width="400">
 
 - ChatScreen
-<img src="Chat.jpg" width="450">
+<img src="Chat.jpg" width="400">
 
 - SelectUser
-<img src="SelectUser.jpg" width="450">
+<img src="SelectUser.jpg" width="400">
