@@ -15,4 +15,4 @@ Real-time chat app based on Android using Cryptography, Firebase Cloud, Encrypti
 - Encryption & Decryption
 
 
-![](Recent.jpg "Title" {width=40px height=400px})
+<img src="Recent.jpg" width="48">
