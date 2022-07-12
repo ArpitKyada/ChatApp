@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402915875700",
+    "project_id": "chatapp-15d1a",
+    "storage_bucket": "chatapp-15d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402915875700:android:86f1a3d7ce741c973daa21",
+        "android_client_info": {
+          "package_name": "com.arpit_kyada.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402915875700-15c14cf2s2k48vjpl7dms7rbi4h5dc76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMao8IvjcARFYEUZrnWVDMAeDMdH6uxNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402915875700-15c14cf2s2k48vjpl7dms7rbi4h5dc76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
