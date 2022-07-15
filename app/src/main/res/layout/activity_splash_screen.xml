@@ -16,7 +16,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/_175sdp"
+        android:layout_marginTop="@dimen/_176sdp"
         android:text="ChatApp"
         android:textColor="@color/primary_text"
         android:textSize="@dimen/_30ssp"
