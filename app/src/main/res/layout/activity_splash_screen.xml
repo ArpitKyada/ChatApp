@@ -4,14 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     android:gravity="center"
     tools:context=".SplashScreenActivity">
 
-    <TextView
+    <ImageView
         android:layout_width="match_parent"
+        android:src="@drawable/chat_icon"
+        android:layout_height="@dimen/_145sdp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_175sdp"
         android:text="ChatApp"
-        android:gravity="center"
-        android:textSize="@dimen/_40ssp"
-        android:layout_height="wrap_content"/>
+        android:textColor="@color/primary_text"
+        android:textSize="@dimen/_30ssp"
+        android:textStyle="bold" />
 
 </LinearLayout>
